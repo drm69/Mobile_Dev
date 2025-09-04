@@ -9,9 +9,11 @@ NAMA : Firdaus Yuli Darmawan
 1. Modifikasi program:
 
 Kode Program:
+
 ![kode](img/KodeSoal1.png)
 
 Tampilan Output:
+
 ![output](img/OutputSoal1.png)
 
 2. Flutter adalah sebuah framework untuk membangun aplikasi baik itu mobile, web, ataupun desktop. Sedangkan dart adalah bahasa pemrograman utama yang digunakan Flutter. Hal ini berarti kita harus memahami logika dasar dari pemrograman dart untuk dapat menggunakan flutter sebagai eksekusi dari aplikasi yang akan kita buat. Flutter tidak punya “bahasa sendiri”, ia sepenuhnya ditulis dan dijalankan dengan Dart. Semua widget, state management, dan logika aplikasi ditulis dalam sintaks Dart. Kalau tidak paham Dart, kita hanya akan menghafal kode tanpa benar-benar mengerti bagaimana cara kerjanya.
@@ -87,9 +89,13 @@ d. Pengenalan Struktur Bahasa Dart
 ===  Contoh Penerapan  ===
 
 a. Null Safety
+
 ![Null1](img/NullSafety1.png)
+
 ![Null2](img/NullSafety2.png)
 
 b. Late Variabel
+
 ![Late1](img/Late1.png)
+
 ![Late2](img/Late2.png)
