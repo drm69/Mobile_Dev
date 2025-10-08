@@ -28,4 +28,11 @@ Hasil Akhir Praktikum:
 Hasil Akhir Praktikum:
 
 ![kode1](img/image4.png)
-pada praktikum diatas
+
+4. Tugas Praktikum 2
+
+=====  Hasil Akhir Modifikasi Program  =====
+
+![kode1](img/image5.png)
+
+![kode1](img/image6.png)
